@@ -1,1 +1,1 @@
-JWTSessions.encryption_key = '48d14c8c45324bd6b1b1959c29b7b5062c9c239197df003f65e10f041e5ecf037412764d1b7ece9a4eebdb7deeaab2b3fb8af827d29355d3a4a79075c85dfe37'
+JWTSessions.encryption_key = 'secret'
